@@ -1,4 +1,6 @@
-import org.apache.log4j.{Logger, Level}
+package com.arya.simple
+
+import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.types.{StringType, StructField, StructType}
 

@@ -15,6 +15,11 @@ It consumes data from stream name `mystream`
 ### Requirements
 - Redis
 
+### WebPage Visit Example
+
+In the package `pagecount` lies the example of streaming redis event of user page visit and counting the number of user visit.
+`Constant` object in package `simple` can be used to configure few variables.
+
 ### Docker Redis Settings 
 ###### if redis is not locally available
 
